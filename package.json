@@ -1,0 +1,26 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overveg/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/overveg/nodejs/issues"
+  },
+  "homepage": "https://github.com/overveg/nodejs#readme",
+  "dependencies": {
+    "a1-notify": "^1.1.1",
+    "ansi": "^0.3.1",
+    "chalk": "^4.1.0",
+    "shuffle": "^0.2.5"
+  }
+}
